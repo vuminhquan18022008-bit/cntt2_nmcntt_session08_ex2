@@ -1,0 +1,12 @@
+Phần 1 : chỉ ra 3 lỗi sai 
+1.	Bạn sử dụng cú pháp # để viết tiêu đề tuy nhiên k theo một trình tự rõ ràng 
+2.	Cú pháp in đậm của bạn viết chưa đúng
+3.	Cú pháp chuyển hướng hình ảnh bị sai 
+Phần 2: Hoàn thiện : 
+1.	# Tiêu đề 1
+2.	## Giới thiệu dự án 
+3.	![Logo Ptit]( https://ptit.edu.vn/logo.png)
+
+4.	**đây là đoạn văn bản in đậm
+
+5.	### mục tiêu 
